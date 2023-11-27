@@ -4,7 +4,9 @@ Digital smart lock room implemented using LogicWorks
 # Rules
 ![digital smart lock room](https://github.com/saad0909/digital-smart-lock-room/assets/33553848/aed25e9c-d46a-4453-8019-64cea282162e)
 Black lights are seats.
+
 Red lights are representing exit and enterance door.
+
 Green lights are room lights.
 
  We have to automate six lights and a lock of a room. The room has six enclosures

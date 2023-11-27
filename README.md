@@ -7,7 +7,9 @@ Digital smart lock room implemented using LogicWorks
  We have to automate six lights and a lock of a room. The room has six enclosures
  and requirements are as follows:
  ![image](https://github.com/saad0909/digital-smart-lock-room/assets/33553848/eaabbc8d-770e-4e82-88b5-bff806a82b4c)
-
+Black lights are seats
+Red lights are representing exit and enterance door
+Green lights are room lights
  1. Capacity of room is 16 people
  2. Seat plan is shown above and user entering the room will sit on next
  available seat starting from seat no. 1
